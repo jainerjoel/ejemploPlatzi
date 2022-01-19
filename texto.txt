@@ -1,1 +1,2 @@
-Prueba de archivo de texto plano
+Prueba de archivo de texto plano.
+Primera modificacion en el archivo usando vim.
